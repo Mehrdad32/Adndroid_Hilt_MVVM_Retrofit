@@ -1,4 +1,4 @@
-# Adndroid_Hilt_MVVM_Retrofit
+# Android_Hilt_MVVM_Retrofit
 How to develop Android kotlin project in MVVM by Hilt and Retrofit (+ Picasso, NavHostFragment)
 
 ## Configuration and Dependencies
